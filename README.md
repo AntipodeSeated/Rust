@@ -1,13 +1,4 @@
-# AndromedaSearch
+# Andromeda Search
 
-Rust + Iced starter project for the Andromeda Search desktop app.
+A quick desktop app written using Rust and Iced designed to open an Empyrion Galactic Survival game database file (global.db) to allow searching the in-game galaxy for specific POIs, Entities, Planets or Systems.
 
-## Run
-
-```bash
-cargo run
-```
-
-## Notes
-
-This scaffold is set up for the port from the original Python PySide6 application and is ready for the SQLite and UI logic to be completed.
