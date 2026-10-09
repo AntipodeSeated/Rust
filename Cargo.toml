@@ -1,0 +1,10 @@
+[package]
+name = "AndromedaSearch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = { version = "0.13", features = ["tokio", "debug"] }
+rusqlite = { version = "0.32", features = ["bundled"] }
+rfd = "0.15"
+anyhow = "1.0"
